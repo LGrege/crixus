@@ -4,9 +4,9 @@ Crixus is a sample Flutter based storefront for SAP Commerce Cloud,
 making use of its REST API (OCC) to retrieve data.
 
 <p align="middle">
-<img src="documentation/images/screens/landing_screen.png" alt="drawing" width="250" hspace="10"/>
-<img src="documentation/images/screens/app_drawer.png" alt="drawing" width="250" hspace="10"/>
-<img src="documentation/images/screens/product_details_screen.png" alt="drawing" width="250" hspace="10"/>
+<img src="documentation/images/screens/landing_screen.png" alt="drawing" width="250" hspace="20"/>
+<img src="documentation/images/screens/app_drawer.png" alt="drawing" width="250" hspace="20"/>
+<img src="documentation/images/screens/product_details_screen.png" alt="drawing" width="250" hspace="20"/>
 </p>
 
 ## How does it work?
