@@ -1,0 +1,11 @@
+{
+  "login.register.title": "Anmelden / Registrieren",
+  "button.add.to.cart": "Zum Warenkorb hinzufügen",
+  "stocklevel.status.instock": "Verfügbar",
+  "text.show.reviews": "Reviews anzeigen",
+  "text.loading": "Lädt...",
+  "tab.ProductDetailsTabComponent.headline": "Produkt Details",
+  "tab.ProductSpecsTabComponent.headline": "Spezifikationen",
+  "tab.ProductReviewsTabComponent.headline": "Reviews",
+  "tab.deliveryTab.headline": "Lieferung"
+}

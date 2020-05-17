@@ -1,0 +1,11 @@
+{
+  "login.register.title": "Sign in / Register",
+  "button.add.to.cart": "Add to Cart",
+  "stocklevel.status.instock": "In stock",
+  "text.show.reviews": "Show reviews",
+  "text.loading": "Loading...",
+  "tab.ProductDetailsTabComponent.headline": "Product Details",
+  "tab.ProductSpecsTabComponent.headline": "Specs",
+  "tab.ProductReviewsTabComponent.headline": "Reviews",
+  "tab.deliveryTab.headline": "Shipping"
+}

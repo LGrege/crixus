@@ -1,0 +1,5 @@
+{
+  "sapCommerceHost": "https://localhost:9002",
+  "sapCommerceWebsite": "electronics-spa",
+  "debugModeEnabled": false
+}
